@@ -12,6 +12,8 @@ https://archive.org/details/hope2024/00_HOPE_XV.mp4
 
 https://github.com/fortuna/ESPHomeBadge
 
+https://www.youtube.com/watch?v=IVCGzXtHt7M (Details as presented at KiCon 2024)
+
 ## XII:
 https://hackaday.com/2018/07/19/hackers-on-planet-earth-here-we-come/
 
