@@ -3,6 +3,9 @@ Badge for August 15-17, 2025 St. John's University Queens, New York City
 
 # see also
 
+## _16
+https://github.com/fortuna/ESPHomeBadge/
+
 ## XV:
 https://wiki.hope.net/index.php?title=HOPE_XV_Electronic_Badge
 
